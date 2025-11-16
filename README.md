@@ -1,4 +1,6 @@
 # KICAD_learning_and_tricks
+KICAD_All in one Tutorial playlist
+https://www.youtube.com/watch?v=szu8dJoyikA&list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G
 
 KICAD_learning_and_tricks
 https://www.youtube.com/watch?v=dbtVgZGaFmE
